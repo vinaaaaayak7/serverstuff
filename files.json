@@ -1,0 +1,29 @@
+[
+{
+"name": "server-config.yml",
+"path": "files/configs/server-config.yml",
+"type": "config",
+"tags": ["paper", "1.20", "server"],
+"size": 4312,
+"updated": "2025-09-03",
+"url": "https://raw.githubusercontent.com/YOUR_USER/your-repo/main/files/configs/server-config.yml"
+},
+{
+"name": "spawn.schem",
+"path": "files/schematics/spawn.schem",
+"type": "schematic",
+"tags": ["worldedit", "spawn"],
+"size": 284132,
+"updated": "2025-08-19",
+"url": "https://raw.githubusercontent.com/YOUR_USER/your-repo/main/files/schematics/spawn.schem"
+},
+{
+"name": "resource-pack.zip",
+"path": "files/packs/resource-pack.zip",
+"type": "zip",
+"tags": ["textures"],
+"size": 1048576,
+"updated": "2025-08-30",
+"url": "https://raw.githubusercontent.com/YOUR_USER/your-repo/main/files/packs/resource-pack.zip"
+}
+]
